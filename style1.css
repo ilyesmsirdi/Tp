@@ -1,0 +1,47 @@
+code
+{
+	background: black;
+color: #ffffff;
+font-family: verdana;
+font-size: 2rem;
+border: 2px solid grey;
+display: block;
+text-align: center;
+
+}
+section
+{
+float: left;
+width: 30%;
+height: 400px;
+border: 2px solid black;
+border-radius: 6px;
+margin: 20px;
+background-color: grey;
+
+
+
+}
+header section
+{
+margin: 0 1.5% 24px 1.5% 
+
+}
+footer
+{
+clear: both;
+border: 2px solid grey;
+
+}
+.p1
+{
+font-family: cursive;
+color: white;
+
+}
+.p2
+{
+font-family: cursive;
+color: red;
+
+}
